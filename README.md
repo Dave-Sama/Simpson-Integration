@@ -11,7 +11,6 @@ we will use Lagrange method: <br/>
 
 ![Simpson and Lagrange method](https://i.ibb.co/d24hwmF/simpson.jpg)
 
-after N iterations we will have the approximate value for an integral solution.
 
 next we will calculate the Error precentage:<br/>
 ![Simpson and Lagrange method](https://i.ibb.co/BC03LG4/error-precentage.jpg)
